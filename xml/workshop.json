@@ -1,0 +1,34 @@
+{
+   "people": [
+      {
+         "name": "Mr.Lee",
+         "shoppingItems": [
+            {
+               "item": "A4 paper",
+               "price": 120,
+               "quantity": 5
+            },
+            {
+               "item": "Ruler",
+               "price": 25,
+               "quantity": 2
+            }
+         ]
+      },
+      {
+         "name": "",
+         "shoppingItems": [
+            {
+               "item": "",
+               "price": ,
+               "quantity": 
+            },
+            {
+               "item": "",
+               "price": ,
+               "quantity": 
+            }
+         ]
+      }
+   ]
+}

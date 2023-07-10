@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book>
+        <id> 01 </id>
+        <language> java </language>
+        <ediition> third </ediition>
+        <author> Herbert Schildt </author>
+    </book>
+    <book>
+        <id> 07 </id>
+        <language> C++ </language>
+        <ediition> second </ediition>
+        <author> E.Balagurusamy </author>
+    </book>
+</bookstore>
